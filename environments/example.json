@@ -1,0 +1,12 @@
+{
+  "name": "example",
+  "description": "example Env for infra-chef",
+  "cookbook_versions": {
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}

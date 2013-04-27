@@ -1,0 +1,19 @@
+berksfile: Berksfile
+# -options: foo bar baz
+
+environments:
+- dev:
+
+roles:
+- "*":
+
+
+#data bags:
+# - s9s:
+#     items:
+#     - "*"
+# - groups: 
+#     items: 
+#     - "*"
+
+

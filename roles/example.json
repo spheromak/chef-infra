@@ -1,0 +1,11 @@
+{
+  "name": "vagrant_client",
+  "chef_type": "role",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+  },
+  "description": "Setup Vagrant Client ",
+  "run_list": [
+    "recipe[vagrant-post::client]"
+  ]
+}
