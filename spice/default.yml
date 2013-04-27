@@ -2,10 +2,10 @@ berksfile: Berksfile
 # -options: foo bar baz
 
 environments:
-- dev:
+- example:
 
 roles:
-- "*":
+- example:
 
 
 #data bags:
